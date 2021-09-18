@@ -1,4 +1,4 @@
-package com.java21days;
+package com.java21days.day01;
 
 class MarsRobot {
     String status;
